@@ -1,6 +1,6 @@
 {
   "name": "alumni-workshop",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Greetings! This repo is where we'll be tracking subject matter + technical progress throughout the session. If you ever have any suggestions or would like to change something, feel free to open a Pull Request!",
   "main": "index.js",
   "scripts": {
