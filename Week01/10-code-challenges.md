@@ -1,3 +1,7 @@
+# 10 Code Challenges
+
+**Use the template to solve the 10 coding challenges**
+
 1) FizzBuzz: “Write a script, or function, that prints out every number from 0-100. However, if that number is devisable by 3, print “Fizz” instead. Also, if the number is devisable by 5, print “Buzz” instead. AND, If the number is devisable by both 3 and 5, print “FizzBuzz”.” 
 
 2) Reverse: “Write a function that will return any string in the reverse order.”
